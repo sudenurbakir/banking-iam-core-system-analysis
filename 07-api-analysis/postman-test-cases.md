@@ -263,10 +263,6 @@ Gerçek sonuç aynıysa test başarılıdır.
 
 # 7. BA Açısından Postman Kullanımı
 
-BA'nın Postman kullanmasının amacı yalnızca teknik test yapmak değildir.
-
-BA şu soruların cevabını kontrol edebilir:
-
 * API doğru endpoint'e mi gidiyor?
 * Gerekli alanlar gönderiliyor mu?
 * Response beklenen yapıda mı?
@@ -354,12 +350,3 @@ Bilmen gereken temel yapı:
 
 **Method → Endpoint → Request → Response → Status Code → Expected Result**
 
-Örneğin bir mülakatta:
-
-> "Postman biliyor musun?"
-
-sorusuna bu proje kapsamında dürüstçe şöyle yaklaşabilirsin:
-
-> "Postman üzerinden REST API request ve response yapılarını inceleme, farklı senaryolar için API test case'leri oluşturma ve beklenen sonuçlarla gerçek response'ları karşılaştırma konusunda temel seviyede çalışma yaptım."
-
-Bu ifade, sahip olmadığın bir uzmanlığı iddia etmeden API tarafındaki pratiğini gösterir.
